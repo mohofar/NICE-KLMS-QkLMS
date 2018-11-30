@@ -1,19 +1,19 @@
 # NICE-KLMS-QkLMS and transfer learning
 An implementation to "Transfer Learning in Adaptive Filters: The Nearest Instance Centroid-Estimation Kernel Least-Mean-Square Algorithm" with additional work on blood pressure prediction.
-for additional detail please connect me on linkedin.
+For additional detail please connect me on linkedin.
 The pupose of this work was:
 
-1- implementation of KLMS, QKLMS, NICE-KLMS, NICE-QKLMS on two time series
+1- Implementation of KLMS, QKLMS, NICE-KLMS, NICE-QKLMS on two time series
 
-2- effect of transfering on target signal of Lorenz and Macky-glass time series and blood pressure of 60 cases
+2- Effect of transfering on target signal of Lorenz and Macky-glass time series and blood pressure of 60 cases
 
-3- advantage and disadvantage of transfering
+3- Advantage and disadvantage of transfering
 
-4- how, when and why we can use transfering 
+4- How, when and why we can use transfering 
 
-5- using transfer learning in lack of data
+5- Using transfer learning in lack of data
 
-6- using transfer learning for increasing accuracy
+6- Using transfer learning for increasing accuracy
 
 7-...
 
