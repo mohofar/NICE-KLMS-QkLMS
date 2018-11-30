@@ -19,4 +19,5 @@ The pupose of this work was:
 
 
 Morteza Homayounfar
-https://www.linkedin.com/in/morteza-homayounfar-b0022969
+more details in personal blog: 
+https://mohofarmindset.wordpress.com/
