@@ -20,4 +20,4 @@ The pupose of this work was:
 
 Morteza Homayounfar
 more details in personal blog: 
-https://mohofarmindset.wordpress.com/
+https://mohofarmindset.wordpress.com/2018/11/30/transfer-learning-in-adaptive-filters/
