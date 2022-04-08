@@ -17,7 +17,3 @@ The pupose of this work was:
 
 7-...
 
-
-Morteza Homayounfar
-more details in personal blog: 
-https://mohofarmindset.wordpress.com/2018/11/30/transfer-learning-in-adaptive-filters/
